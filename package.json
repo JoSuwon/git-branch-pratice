@@ -1,0 +1,8 @@
+{
+  "name": "git-branch-pratice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JoSuwon/git-branch-pratice.git",
+  "author": "josuwon <vv_vv3371@naver.com>",
+  "license": "MIT"
+}
